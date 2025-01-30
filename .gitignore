@@ -1,3 +1,9 @@
+# ignore build files from esp-idf
+build/
+# ignore dependencies.lock file
+dependencies.lock
+
+# template for .gitignore file
 # Prerequisites
 *.d
 
